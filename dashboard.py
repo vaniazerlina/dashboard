@@ -6,7 +6,7 @@ import seaborn as sns
 # Fungsi untuk membaca data
 def read_data():
     customers_df = pd.read_csv('customers_dataset.csv', delimiter=',')
-    geolocation_df = pd.read_csv('geolocation_dataset.csv', delimiter=',')
+    geolocation_df = pd.read_csv('geolocation_dataset.csv', delimiter=';')
     order_items_df = pd.read_csv('order_items_dataset.csv', delimiter=',')
     order_payments_df = pd.read_csv('order_payments_dataset.csv', delimiter=',')
     order_reviews_df = pd.read_csv('order_reviews_dataset.csv', delimiter=',')
