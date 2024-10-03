@@ -1,4 +1,5 @@
-Dashboard untuk menganalisis dan menampilkan data dari koleksi Dicoding menggunakan Streamlit.
+E-commerce Dashboard 🛍️
+Dashboard untuk menganalisis dan menampilkan data dari E-Commerce menggunakan Streamlit.
 
 ## Fitur
 - Menampilkan data visualisasi berdasarkan koleksi Dicoding.
