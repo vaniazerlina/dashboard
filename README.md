@@ -1,17 +1,18 @@
-E-commerce Dashboard 🛍️
-Dashboard untuk menganalisis dan menampilkan data dari E-Commerce menggunakan Streamlit.
+# E-commerce Dashboard 🛍️
+
+Dashboard ini dibuat untuk menganalisis dan menampilkan data dari E-commerce menggunakan Streamlit.
 
 ## Fitur
-- Menampilkan data visualisasi berdasarkan koleksi Dicoding.
-- Analisis interaktif menggunakan berbagai visualisasi.
-- Dashboard responsif yang mudah digunakan.
+- Menampilkan berbagai visualisasi data yang interaktif.
+- Analisis yang mudah diakses dan digunakan oleh pengguna.
+- Dashboard responsif yang menyesuaikan dengan ukuran layar perangkat.
 
 ## Persyaratan
 - Python 3.9
-- Anaconda (untuk pengaturan environment opsional)
+- Anaconda (opsional untuk pengaturan environment)
 - Streamlit
 
-## Setup Environment - Anaconda
+## Setup Environment - Anaconda (Opsional)
 
 1. Buat environment baru dan aktifkan:
     ```bash
@@ -19,12 +20,12 @@ Dashboard untuk menganalisis dan menampilkan data dari E-Commerce menggunakan St
     conda activate main-ds
     ```
 
-2. Instal semua dependensi dari file `requirements.txt`:
+2. Instal semua dependensi yang dibutuhkan:
     ```bash
     pip install -r requirements.txt
     ```
 
-## Setup Environment - Shell/Terminal (Opsional tanpa Anaconda)
+## Setup Environment - Shell/Terminal
 
 1. Buat direktori proyek:
     ```bash
@@ -38,7 +39,7 @@ Dashboard untuk menganalisis dan menampilkan data dari E-Commerce menggunakan St
     pipenv shell
     ```
 
-3. Instal semua dependensi dari file `requirements.txt`:
+3. Instal semua dependensi yang dibutuhkan:
     ```bash
     pip install -r requirements.txt
     ```
